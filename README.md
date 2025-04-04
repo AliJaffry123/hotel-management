@@ -1,10 +1,10 @@
-Hotel Management System
+*Hotel Management System*
 
-Introduction
+*Introduction*
 
 The main purpose of this project is to provide efficient services to customers regarding the booking of rooms, provision of utilities such as food items, addition of extra rooms, and sending bills through email. Moreover, it also maintains and updates the records of employees and customers, which are stored in files, including employee attendance, employee personal information, and customer personal information.
 
-Project Specialty
+*Project Specialty*
 
 The project includes the following features:
 
@@ -17,3 +17,4 @@ The project includes the following features:
 7. Bill Receipt via Email: Send customer bills directly to their email.
 8. Login System (Security): Secure the system with a robust login feature.
 9. Display Room Availability: Show available rooms for booking.
+
